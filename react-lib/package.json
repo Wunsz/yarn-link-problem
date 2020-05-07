@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test react lib",
   "author": "Wunsz",
-  "license": "PROPRIETARY",
+  "license": "MIT",
   "repository": "",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
